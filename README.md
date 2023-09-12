@@ -1,4 +1,4 @@
-### Hlello there 👋
+### Hello there 👋
 - 🤔 I’m looking for help with ...github!
 
 <!--
